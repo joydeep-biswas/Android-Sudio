@@ -1,3 +1,3 @@
-# Tic-Tac-Toe-Android
+## Tic-Tac-Toe-Android
 
-This is a basic 2 player Tic Tac Toe game for android.
+This is a basic 2 player Tic-Tac-Toe game for android.
